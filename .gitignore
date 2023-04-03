@@ -21,3 +21,26 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.idea/.gitignore
+/Week1/.gitignore
+/Week1/build.gradle.kts
+/.idea/compiler.xml
+/.idea/GeekTimeJava.iml
+/.idea/gradle.xml
+/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml
+/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_5_9_1.xml
+/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_9_1.xml
+/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_9_1.xml
+/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_params_5_9_1.xml
+/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_9_1.xml
+/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_9_1.xml
+/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml
+/.idea/jarRepositories.xml
+/Week1/src/main/java/org/example/Main.java
+/.idea/misc.xml
+/.idea/modules.xml
+/Week1/settings.gradle.kts
+/.idea/vcs.xml
+/Week1.iml
+/.idea/modules/Week1.main.iml
+/.idea/modules/Week1.test.iml
